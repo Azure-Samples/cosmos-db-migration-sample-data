@@ -1,0 +1,61 @@
+[
+  {
+    "name": "Confira Watch",
+    "category": "watches",
+    "price": 105.00
+  },
+  {
+    "name": "Diannis Watch",
+    "category": "watches",
+    "price": 98.00,
+    "sale": true
+  },
+  {
+    "name": "Sterse Gloves",
+    "category": "gloves",
+    "price": 42.00
+  },
+  {
+    "name": "Peache Sunglasses",
+    "category": "eyewear",
+    "price": 32.00,
+    "sale": false,
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ]
+  },
+  {
+    "name": "Icento Pack",
+    "category": "bags",
+    "price": 58.00
+  },
+  {
+    "name": "Iroowl Bracelet",
+    "category": "watches",
+    "price": 66.00
+  },
+  {
+    "name": "Glaark Bag",
+    "category": "bags",
+    "price": 56.00,
+    "sale": true
+  },
+  {
+    "name": "Windry Mittens",
+    "category": "gloves",
+    "price": 35.00
+  },
+  {
+    "name": "Tuvila Hat",
+    "category": "hats",
+    "price": 120.00
+  },
+  {
+    "name": "Klinto Hat",
+    "category": "hats",
+    "subcategory": "hats-beanies",
+    "price": 65.00
+  }
+]
